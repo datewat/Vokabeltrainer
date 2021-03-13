@@ -1,0 +1,14 @@
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Release\Vokabeltrainer.exe.config
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Release\Vokabeltrainer.exe
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\bin\Release\Vokabeltrainer.pdb
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\MainWindow.g.cs
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\App.g.cs
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer_MarkupCompile.cache
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer_MarkupCompile.lref
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\MainWindow.baml
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer.g.resources
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer.Properties.Resources.resources
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer.csproj.GenerateResource.cache
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer.csproj.CoreCompileInputs.cache
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer.exe
+C:\Users\thoma\source\repos\Vokabeltrainer\Vokabeltrainer\obj\Release\Vokabeltrainer.pdb
